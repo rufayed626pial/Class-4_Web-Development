@@ -1,0 +1,2 @@
+anchor tag => <a></a> (Use as link)
+target="_blank"
